@@ -1,5 +1,5 @@
 === MDC Adf.ly Shortener ===
-Contributors: mukto90
+Contributors: mukto90, medhabidotcom
 Donate link: http://nazmulahsan.me/contact
 Tags: adfly, adf.ly, adfly url shortener, adf.ly url short, monetize wordpress, ad fly url
 Requires at least: 3.0.1
