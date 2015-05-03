@@ -13,7 +13,7 @@ You don't have to go to Adf.ly website every time you want to shorten a URL! No 
 == Description ==
 
 This plugin is an awesome tool to monetize your blog/website. It generates Adf.ly shortened URL like a charm. You don't have to go to Adf.ly website every time you want to shorten a URL. It enables shortcode to generate Adf.ly URLs!
-
+= How it works =
 https://www.youtube.com/watch?v=ZVS6_GDWGcI
 == Installation ==
 
